@@ -1,4 +1,4 @@
-# gemulai-botak
+# susah
 Program yang kami buat merupakan replika dari permainan komputer ***minesweeper*** yang populer di tahun 1990-2000an. Program ini merupakan bentuk kolaborasi 
 tim dalam pemrograman game python. Setiap anggota turut mengambil bagian dalam penulisan kode program.
 
